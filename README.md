@@ -58,6 +58,10 @@ This is the standard, professional method for using Git. It requires you to have
     ```
 
 **Step 3: Add, Commit, and Push Your Homework**
+* **Navigate:** Change into your folder:
+    ```
+    cd [your-name]
+    ```
 * Move your completed homework files into the folder you created.
 * Stage the new files to be tracked by Git:
     ```
